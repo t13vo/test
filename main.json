@@ -1,0 +1,695 @@
+{
+
+  "image": "booklet-letter.jpg",
+
+    "productVisibility": "published",
+
+  "orderAttachments":{
+
+    "fileUploadEnabled": true,
+
+     "allowPhysicalDocument": true
+
+  },
+
+  "attributes": {
+
+    "copies": {
+
+      "visible": true
+
+    },
+
+    "printColor": {
+
+      "visible": true
+
+    },
+
+    "singleOrDoubleSided": {
+
+      "visible": true
+
+    },
+
+    "due": {
+
+      "visible": true,
+
+      "leadTimeDays": 1,
+
+      "workingDays": [
+
+        "Mon",
+
+        "Tue",
+
+        "Wed",
+
+        "Thu",
+
+        "Fri"
+
+      ]
+
+    },
+
+
+
+
+
+  
+
+
+
+    "paperStock": {
+
+      "options": [
+
+
+
+{"size":"Please","color":"Select","type":"Option","cost":0},
+
+{"size":"8.5x11","color":"White","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Blue","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Yellow","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Green","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Ivory","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Cream","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Orchid","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Salmon","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Buff","type":"20lb","cost":0},
+
+{"size":"8.5x11","color":"Gray","type":"20lb","cost":0},
+
+{"size":"8.5x14 ","color":"White","type":"20lb","cost":0},
+
+{"size":"11x17 ","color":"White ","type":"20lb","cost":0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ]
+
+    },
+
+    "frontCover": {
+
+      "options": [
+
+{"name":"No Front Cover Option Selected","cost":0.00},  
+
+
+
+{"name":"8.5x11-White-90","cost":0.0},
+
+{"name":"11x17-White-110","cost":0.0},
+
+{"name":"8.5x11-Clear-90","cost":0.00},
+
+{"name":"8.5x11-Blue-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Yellow-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Green-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Ivory-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Cream-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Orchid-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Salmon-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Buff-65-67 lb","cost":0.0},
+
+{"name":"8.5x11-Gray-65-67 lb","cost":0.0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ]
+
+    },
+
+
+
+    "backCover": {
+
+      "options": [
+
+{"name":"No Front Cover Option Selected","cost":0.00},         
+
+
+
+{"name":"8.5X11-White-90","cost":0.0},
+
+{"name":"11x17-White-110","cost":0.0},
+
+{"name":"8.5X11-Clear-90","cost":0.00},
+
+{"name":"8.5X11-Blue-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Yellow-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Green-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Ivory-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Cream-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Orchid-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Salmon-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Buff-65-67 lb","cost":0.0},
+
+{"name":"8.5X11-Gray-65-67 lb","cost":0.0}
+
+
+
+
+
+
+
+
+
+
+
+
+
+      ]
+
+    },
+
+
+
+
+
+        "collating":{
+
+          "options": [
+
+            {
+
+            "name":"Collated",
+
+            "image":" ",
+
+            "description": " ",
+
+            "cost":0.0
+
+            },
+
+            {
+
+            "name":"Uncollated",
+
+            "image":" ",
+
+            "description": " ",
+
+            "cost":0.0
+
+            }
+
+          ]
+
+        },
+
+
+
+    "binding": {
+
+      "options": [
+
+        {
+
+          "name": "No Bindery Option Selected","image": "","cost": 0
+
+        },
+
+        {
+
+          "name": "Comb binding",
+
+          "image": "",
+
+          "cost": 0,
+
+          "subAttributes": [
+
+            {
+
+              "name": "Binding Size",
+
+              "description": "Select binding edge",
+
+              "options": [
+
+                {
+
+                  "name": "1/4 GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "3/8 GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "5/8 GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "3/4 GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "1/2 GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "1 inch GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "1 1/2 inch GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "2 inch GBC Comb",
+
+                  "image": "",
+
+                  "cost": 0.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                }
+
+              ]
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "name": "Folding",
+
+          "image": "",
+
+          "cost": 0,
+
+          "subAttributes": [
+
+            {
+
+              "name": "Type of Fold",
+
+              "description": "Select a Type",
+
+              "options": [
+
+                {
+
+                  "name": "Half Fold - Booklet",
+
+                  "cost": 0.00
+
+                },
+
+                {
+
+                  "name": "Z-Fold",
+
+                  "cost": 0.00
+
+                },
+
+                {
+
+                  "name": "C-Fold",
+
+                  "cost": 0.00
+
+                },
+
+                {
+
+                  "name": "Fold & Insert (Sheet into envelope)",
+
+                  "cost": 0.00
+
+                },
+
+                {
+
+                  "name": "Insert letter into envelope (pre-folded)",
+
+                  "cost": 0.00
+
+
+
+                }
+
+              ]
+
+            }
+
+          ]
+
+        },
+
+        {
+
+
+
+          "name": "Stapling Options",
+
+          "image": "",
+
+          "cost": 0,
+
+          "attributes": [
+
+            {
+
+              "name": "Position",
+
+              "description": "Select the staple position",
+
+              "options": [
+
+                {
+
+                  "name": "Top left diagonal on page",
+
+                  "image": "",
+
+                  "description": "One Staple in Top Left hand corner",
+
+                  "cost": 0.0
+
+                },
+
+                {
+
+                  "name": "Top right diagonal on page",
+
+                  "image": "",
+
+                  "description": "One Staple in Top Right hand corner",
+
+                  "cost": 0.0
+
+
+
+                }
+
+              ]
+
+            }
+
+          ]
+
+        }
+
+      ]
+
+    },
+
+
+
+    "holePunching": {
+
+      "options": [
+
+        {
+
+           "name": "No Hole Punching Option Selected",
+
+          "image": "",
+
+          "cost": 0
+
+        },
+
+        {
+
+          "name": "3 holes on left side of page",
+
+          "description": "Three hole punch",
+
+          "image": "",
+
+          "cost": 0.0
+
+        },
+
+        {
+
+          "name": "2 holes on left side of page",
+
+          "description": "2 hole punch",
+
+          "image": "",
+
+          "cost": 0.0
+
+
+
+
+
+
+
+        }
+
+      ]
+
+    },
+
+    "laminating": {
+
+      "options": [
+
+        {
+
+          "name": "No Laminating Option Selected",
+
+          "image": "",
+
+          "cost": 0
+
+        },
+
+        {
+
+          "name": "Laminating Standard",
+
+          "description": "3 ML",
+
+          "image": "",
+
+          "cost": 0.00
+
+        },
+
+        {
+
+          "name": "Laminating Thicker",
+
+          "description": "5 ML",
+
+          "image": "",
+
+          "cost": 0.00
+
+
+
+        }
+
+      ]
+
+    },
+
+     "cutting": {
+
+      "options": [
+
+        {
+
+          "name": "No Cutting Selection Selected",
+
+          "image": "",
+
+          "cost": 0.00
+
+        },
+
+        {
+
+          "name": "Cut in half",
+
+          "image": "",
+
+          "description": "",
+
+          "cost": 0.0
+
+        },
+
+        {
+
+           "name": "Cut evenly based on images",
+
+          "image": "",
+
+          "description": "",
+
+          "cost": 0.0
+
+ 
+
+
+
+
+
+        }
+
+      ]
+
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+    "collated":{"options": [
+
+{"name":"collated","image":"collated.jpg","description": "0","cost":0},
+
+{"name":"uncollated","image":"uncollated.jpg","description": "0","cost":0}
+
+
+
+    ]}
+
+  }
+
+}
